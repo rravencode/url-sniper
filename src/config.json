@@ -1,11 +1,11 @@
 {
     "discord": {
-        "clientToken": "kullanıcı token",
-        "clientId": "kullanıcı id",
-        "guildId": "sunucu id",
-        "vanityCode": "korunacak url"
+        "clientToken": "berkreis_no1",
+        "clientId": "1198869041805271101",
+        "guildId": "1268373269770276885",
+        "vanityCode": "daottoman"
     },
     "client": {
-        "token": "bot token"
+        "token": "MTI3MDM4OTY1NzA5NTM3NzA1Nw.GZ11mQ.wMh7bOWnsAyhCMPsi5qLZZukXP51DSptzSjaIQ"
     }
 }
